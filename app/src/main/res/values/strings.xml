@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeezerTP1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search_title">Rechercher</string>
+    <string name="nb_fan">Fans</string>
+</resources>
